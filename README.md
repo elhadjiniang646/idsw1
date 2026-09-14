@@ -8,7 +8,9 @@
 
 * [x] [**Acerca de la Ingeniería del Software**](temario/contenidos/00000-acercaDe.md)
 * [x] [**Elementos fundamentales en la producción de software**](https://github.com/mmasias/PRG1/blob/main/temario/00000-introduccion.md)
+* [ ] [**Evolución de los procesos de desarrollo de software**](temario/00001-procesosDeDesarrollo/README.md)
 * [x] [**RUP como proceso de desarrollo de software**](temario/00002-rup.md)
+* [ ] [**Disciplinas del Software**](temario/00002b-disciplinasSoftware/README.md)
 * [x] [Disciplina de Requisitos](temario/00003-disciplinaDeRequisitos.md)
   * [x] [**Modelo del dominio**](temario/contenidos/00004-MdD.md) > [En conclusión!](/temario/contenidos/00004-01-EC.md)
   * [x] [**Casos de Uso**](temario/contenidos/00005-CdU.md) - Actividades:
