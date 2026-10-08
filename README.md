@@ -35,6 +35,8 @@ DdR - ECdU   |🔲|✅|✅
 
 </div>
 
+> [**Catálogo RUP**](https://github.com/mmasias/catalogo-rup-ingenieria-software), que desarrolla dos proyectos de punta a punta: pySigHor y pyCelda
+
 ## Lecturas recomendadas
 
 - [Guía acerca de los aspectos ***no técnicos*** para la gestión de un proyecto de software libre](https://tldp.org/HOWTO/Software-Proj-Mgmt-HOWTO/index.html)
