@@ -24,7 +24,7 @@
 
 ## ¿Qué?
 
-Disciplina de Requisitos es el flujo de trabajo (realización de casos de uso que incluye roles, actividades y artefactos) cuyo principal propósito es **dirigir el desarrollo hacia el sistema correcto** describiendo los requisitos del sistema de tal forma que se alcance el acuerdo entre el cliente, usuarios y desarrolladores sobre lo que el sistema debería hacer
+Disciplina de Requisitos es el flujo de trabajo (realización de casos de uso que incluye roles, actividades y artefactos) cuyo principal propósito es **dirigir el desarrollo hacia el sistema correcto** describiendo los requisitos del sistema, funcionales y no funcionales, de tal forma que se alcance el acuerdo entre el cliente, usuarios y desarrolladores sobre lo que el sistema debería hacer
 
 ## ¿Para qué?
 
